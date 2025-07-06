@@ -1,0 +1,59 @@
+.item4 {
+    border-top: 1px solid #19aff5;
+    padding: 20px 0;
+    background-color: #0d1b2a;
+    color: #e0e1dd;
+}
+
+.item4 h3 {
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-weight: normal;
+    font-family: 'Segoe UI', sans-serif;
+    color: #ffffff;
+}
+
+/* Social links list */
+.item4 .contact-component ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    padding: 0;
+    margin: 0;
+    flex-wrap: wrap;
+}
+
+.item4 .contact-component ul li {
+    list-style: none;
+}
+
+/* Link styling */
+.item4 .contact-component ul li a {
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.3s ease, color 0.3s ease;
+    display: flex;
+    align-items: center;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.item4 .contact-component ul li a .contact-icon {
+    font-size: 26px;
+    transition: transform 0.3s ease;
+}
+
+/* Hover effect */
+.item4 .contact-component ul li a:hover .contact-icon {
+    transform: scale(1.2);
+}
+
+/* Specific platform colors */
+.item4 .contact-component ul li a#facebook .contact-icon {
+    color: #1877f2;
+}
+
+.item4 .contact-component ul li a#whatsapp .contact-icon {
+    color: #25d366;
+}
