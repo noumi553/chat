@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/noumi553/chat/static/css/main.9b132407.css",
+    "main.js": "/noumi553/chat/static/js/main.9a73f701.js",
+    "static/js/453.ad6eb26e.chunk.js": "/noumi553/chat/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/noumi553/chat/index.html",
+    "main.9b132407.css.map": "/noumi553/chat/static/css/main.9b132407.css.map",
+    "main.9a73f701.js.map": "/noumi553/chat/static/js/main.9a73f701.js.map",
+    "453.ad6eb26e.chunk.js.map": "/noumi553/chat/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b132407.css",
+    "static/js/main.9a73f701.js"
+  ]
+}
